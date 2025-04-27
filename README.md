@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Aqib Habib
 - 👀 I’m interested in Flight Controls And Fault Tolerant Systems
 - 🌱 I’m currently learning Flight Control Systems for Multi-Rotors and Fixed Wing Systems
-- 📫 aqibhabib12@gmail.com
+- 📫 aqib.habib@tum.de
